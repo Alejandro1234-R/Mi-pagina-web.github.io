@@ -1,0 +1,37 @@
+body{
+    background-image: url(img/WhatsApp\ Image\ 2024-08-27\ at\ 4.29.54\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+.login-container {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 440px;
+    background: beige;
+    border: 2px solid rgba(255, 255, 255, .2);
+    min-height: 90vh;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 7px 13px 37px #000;
+    padding: 10px 10px;
+    border-radius: 10px;
+
+}
+
+.contenedor{
+    width: 80%;
+    margin-bottom: 15px;
+    padding: 4px 4px;
+    border-radius: 8px;
+}
+
+button {
+    width: 80%;
+}
+
